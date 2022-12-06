@@ -1,4 +1,10 @@
-Olá! O nome é Souza, muito prazer!
+Maurício, muito prazer!
+
+Sou jornalista profissional em transição de carreira. Estudo programação e busco um cargo de entrada como desenvolvedor back-end.
+
+Linguagens e sistemas que venho estudando:
+
+Git | HTML | CSS | Python | JavaScript
 
 ## Projetos e exercícios solucionados
 
