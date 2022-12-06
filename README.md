@@ -1,10 +1,12 @@
 Maurício, muito prazer!
 
-Sou jornalista profissional em transição de carreira. Estudo programação e busco um cargo de entrada como desenvolvedor back-end.
+Sou jornalista profissional em transição de carreira. Estudo programação desde setembro/2022.
 
-Linguagens e sistemas que venho estudando:
+Linguagens e sistemas:
 
 Git | HTML | CSS | Python | JavaScript
+
+Obrigado!
 
 ## Projetos e exercícios solucionados
 
