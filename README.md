@@ -2,9 +2,9 @@ Maurício, muito prazer!
 
 Sou jornalista profissional em transição de carreira. Estudo programação desde setembro/2022.
 
-Linguagens e sistemas:
+Linguagens e sistemas que venho estudando:
 
-Git | HTML | CSS | Python | JavaScript
+Bash | Git | HTML | CSS | Python | JavaScript
 
 Obrigado!
 
