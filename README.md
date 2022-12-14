@@ -4,7 +4,7 @@ Sou jornalista profissional em transição de carreira. Estudo programação des
 
 Linguagens e sistemas que venho estudando:
 
-Bash | Git | HTML | CSS | Python | JavaScript
+Bash | Git | HTML | CSS | Python | JavaScript | SQL
 
 Obrigado!
 
