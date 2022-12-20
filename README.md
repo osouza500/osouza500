@@ -15,3 +15,4 @@ Obrigado!
 3. [Shopping cart](https://github.com/osouza500/shopping-cart) (JavaScript)
 4. [Gerador de senha aleatória](https://github.com/osouza500/gerador_senha) (Python)
 5. [Practice Python](https://github.com/osouza500/practice-python) (Python, em andamento)
+6. [25 projetos para iniciantes em Python](https://github.com/osouza500/25-py-projects-beginners) (Python, em andamento)
